@@ -14,6 +14,7 @@
 - [ ] command plate: open extension folder
 - [ ] git pr notify
 - [ ] edit readonly file warning
+- [ ] file utils
 
 ## Webpack 
 
