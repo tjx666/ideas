@@ -22,4 +22,4 @@
 
 ## PR
 
-- [ ] https://github.com/microsoft/vscode/issues/147146#issuecomment-1095873541
+- [ ] https://github.com/microsoft/vscode/issues/147146
