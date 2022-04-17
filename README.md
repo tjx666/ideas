@@ -19,3 +19,7 @@
 ## Webpack 
 
 - [ ] fork-ts-checker-webpack-plugin formatter for friendly-errors-webpack-plugin
+
+## PR
+
+- [ ] https://github.com/microsoft/vscode/issues/147146#issuecomment-1095873541
