@@ -17,6 +17,13 @@
 - [ ] file utils
 - [x] regexp hover open in regexp101 with https://regex101.com/?regex=foo&text=bar&options=baz&flavor=javascript
 - [ ] file encoding detect
+- [ ] open extension repository
+- [ ] open extension folder
+- [ ] open extensions folder
+- [ ] open extension data folder
+- [ ] filter prelease extensions
+- [ ] remove uninstalled extensions cache
+- [ ] find extensions which support prelease
 
 ## Webpack 
 
