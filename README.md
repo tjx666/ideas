@@ -15,7 +15,8 @@
 - [ ] git pr notify
 - [ ] edit readonly file warning
 - [ ] file utils
-- [ ] regexp hover open in regexp101 with https://regex101.com/?regex=foo&text=bar&options=baz&flavor=javascript
+- [x] regexp hover open in regexp101 with https://regex101.com/?regex=foo&text=bar&options=baz&flavor=javascript
+- [ ] file encoding detect
 
 ## Webpack 
 
