@@ -23,6 +23,7 @@
   - [ ] filter prelease extensions
   - [ ] remove uninstalled extensions cache
   - [ ] find extensions which support prelease
+- [ ] run code actions command
 
 ## Webpack 
 
