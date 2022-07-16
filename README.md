@@ -31,4 +31,11 @@
 
 ## PR
 
-- [ ] https://github.com/microsoft/vscode/issues/147146
+- [x] https://github.com/microsoft/vscode/issues/147146
+
+## eslint plugin
+
+- [ ] adobe jsx eslint plugin
+  - [ ] no-arrow-func
+  - [ ] no-let-const
+  - [ ] no-for-of
