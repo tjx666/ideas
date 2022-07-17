@@ -13,9 +13,10 @@
 - [x] modify file warning
 - [x] nofify you to update .nvmrc
 - [ ] file utils
+  - [ ] file size in status bar, more info when hover status bar
   - [ ] file tree
   - [ ] file encoding detect
-  - [ ] file info, mp3, mp4 etc
+  - [ ] mp3, mp4 etc
 - [ ] extension manage
   - [ ] open extension repository
   - [ ] open extension folder
