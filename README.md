@@ -10,10 +10,11 @@
   - [x] regexp hover open in regexp101 with https://regex101.com/?regex=foo&text=bar&options=baz&flavor=javascript
   - [ ] regexp preview
   - [ ] https://github.com/pemistahl/grex
+- [x] modify file warning
+- [x] nofify you to update .nvmrc
 - [ ] file utils
   - [ ] file tree
   - [ ] file encoding detect
-  - [ ] edit readonly file warning
   - [ ] file info, mp3, mp4 etc
 - [ ] extension manage
   - [ ] open extension repository
