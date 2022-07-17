@@ -24,6 +24,7 @@
   - [ ] remove uninstalled extensions cache
   - [ ] find extensions which support prelease
 - [ ] run code actions command
+- [ ] auto transform double quote from single to double when write double quote in double quote
 
 ## Webpack 
 
